@@ -1,9 +1,11 @@
 {
+  "description": "Dilawar Portfolio Website",
+  "repo": "https://github.com/dkonlycomputer/DilawarAutomationWorld",
   "owner": {
-    "username": "LawJarp-A",
-    "email": "prajwalanagani@gmail.com"
+    "username": "dkonlycomputer",
+    "email": "dkonlycomputer@gmail.com"
   },
   "records": {
-    "CNAME": "lawjarp-webpage.vercel.app"
+    "CNAME": "cname.vercel-dns.com"
   }
 }
